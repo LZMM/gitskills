@@ -3,3 +3,5 @@
 no--ff分支提交模式
 
 dev dev dev dev
+
+Creating a new branch is quick AND simple.
